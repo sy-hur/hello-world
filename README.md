@@ -11,8 +11,6 @@ BUDDHA_Nikos
 --upper line "_Kazantzakis" was deleted!---
 BUDDHIST_LOGIC_Stcherbatsky
 
-BUDDHA_Jon_Ortner
-
-Everything is practices.
+2-27 :added a folder
 012345678901234567890123456789
 ------------------------
